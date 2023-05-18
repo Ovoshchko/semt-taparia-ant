@@ -132,6 +132,7 @@
                 <attribute name="Manifest-Version" value="1.0" />
             </manifest>
         </war>
+        
 
         <echo> ----------BUILD PROCESS - SUCCESS---------------</echo>
 
