@@ -179,7 +179,6 @@
                     <fileset dir="${base.dir}" includes="*.war" />
 
                 </scp>
-                
 
                 <echo> ----------TRANSFER - SUCCESS---------------</echo>
 
