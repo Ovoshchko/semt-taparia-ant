@@ -1,0 +1,341 @@
+diff --git a/.build/classes/ru/vityaman/itmo/web/lab/taparia/Picture$Data.class b/.build/classes/ru/vityaman/itmo/web/lab/taparia/Picture$Data.class
+new file mode 100644
+index 0000000..948c8ca
+Binary files /dev/null and b/.build/classes/ru/vityaman/itmo/web/lab/taparia/Picture$Data.class differ
+diff --git a/.build/classes/ru/vityaman/itmo/web/lab/taparia/Picture$Id.class b/.build/classes/ru/vityaman/itmo/web/lab/taparia/Picture$Id.class
+new file mode 100644
+index 0000000..fd09285
+Binary files /dev/null and b/.build/classes/ru/vityaman/itmo/web/lab/taparia/Picture$Id.class differ
+diff --git a/.build/classes/ru/vityaman/itmo/web/lab/taparia/Picture$Name.class b/.build/classes/ru/vityaman/itmo/web/lab/taparia/Picture$Name.class
+new file mode 100644
+index 0000000..fe29e7a
+Binary files /dev/null and b/.build/classes/ru/vityaman/itmo/web/lab/taparia/Picture$Name.class differ
+diff --git a/.build/classes/ru/vityaman/itmo/web/lab/taparia/Picture.class b/.build/classes/ru/vityaman/itmo/web/lab/taparia/Picture.class
+new file mode 100644
+index 0000000..0ddaa0f
+Binary files /dev/null and b/.build/classes/ru/vityaman/itmo/web/lab/taparia/Picture.class differ
+diff --git a/.build/classes/ru/vityaman/itmo/web/lab/taparia/TapResult$Draft.class b/.build/classes/ru/vityaman/itmo/web/lab/taparia/TapResult$Draft.class
+new file mode 100644
+index 0000000..029b17b
+Binary files /dev/null and b/.build/classes/ru/vityaman/itmo/web/lab/taparia/TapResult$Draft.class differ
+diff --git a/.build/classes/ru/vityaman/itmo/web/lab/taparia/TapResult$Id.class b/.build/classes/ru/vityaman/itmo/web/lab/taparia/TapResult$Id.class
+new file mode 100644
+index 0000000..002deda
+Binary files /dev/null and b/.build/classes/ru/vityaman/itmo/web/lab/taparia/TapResult$Id.class differ
+diff --git a/.build/classes/ru/vityaman/itmo/web/lab/taparia/TapResult$Status.class b/.build/classes/ru/vityaman/itmo/web/lab/taparia/TapResult$Status.class
+new file mode 100644
+index 0000000..9cbe283
+Binary files /dev/null and b/.build/classes/ru/vityaman/itmo/web/lab/taparia/TapResult$Status.class differ
+diff --git a/.build/classes/ru/vityaman/itmo/web/lab/taparia/TapResult.class b/.build/classes/ru/vityaman/itmo/web/lab/taparia/TapResult.class
+new file mode 100644
+index 0000000..55b57ba
+Binary files /dev/null and b/.build/classes/ru/vityaman/itmo/web/lab/taparia/TapResult.class differ
+diff --git a/.build/classes/ru/vityaman/itmo/web/lab/taparia/api/Api.class b/.build/classes/ru/vityaman/itmo/web/lab/taparia/api/Api.class
+new file mode 100644
+index 0000000..7112101
+Binary files /dev/null and b/.build/classes/ru/vityaman/itmo/web/lab/taparia/api/Api.class differ
+diff --git a/.build/classes/ru/vityaman/itmo/web/lab/taparia/api/Configuration.class b/.build/classes/ru/vityaman/itmo/web/lab/taparia/api/Configuration.class
+new file mode 100644
+index 0000000..41b0a46
+Binary files /dev/null and b/.build/classes/ru/vityaman/itmo/web/lab/taparia/api/Configuration.class differ
+diff --git a/.build/classes/ru/vityaman/itmo/web/lab/taparia/api/error/ApiError.class b/.build/classes/ru/vityaman/itmo/web/lab/taparia/api/error/ApiError.class
+new file mode 100644
+index 0000000..174b490
+Binary files /dev/null and b/.build/classes/ru/vityaman/itmo/web/lab/taparia/api/error/ApiError.class differ
+diff --git a/.build/classes/ru/vityaman/itmo/web/lab/taparia/api/error/ApiErrorHandler.class b/.build/classes/ru/vityaman/itmo/web/lab/taparia/api/error/ApiErrorHandler.class
+new file mode 100644
+index 0000000..17828af
+Binary files /dev/null and b/.build/classes/ru/vityaman/itmo/web/lab/taparia/api/error/ApiErrorHandler.class differ
+diff --git a/.build/classes/ru/vityaman/itmo/web/lab/taparia/api/error/AuthErrorHandler.class b/.build/classes/ru/vityaman/itmo/web/lab/taparia/api/error/AuthErrorHandler.class
+new file mode 100644
+index 0000000..6f19c2d
+Binary files /dev/null and b/.build/classes/ru/vityaman/itmo/web/lab/taparia/api/error/AuthErrorHandler.class differ
+diff --git a/.build/classes/ru/vityaman/itmo/web/lab/taparia/api/error/ErrorResponseBody$ErrorResponseBodyBuilder.class b/.build/classes/ru/vityaman/itmo/web/lab/taparia/api/error/ErrorResponseBody$ErrorResponseBodyBuilder.class
+new file mode 100644
+index 0000000..7f5f5ea
+Binary files /dev/null and b/.build/classes/ru/vityaman/itmo/web/lab/taparia/api/error/ErrorResponseBody$ErrorResponseBodyBuilder.class differ
+diff --git a/.build/classes/ru/vityaman/itmo/web/lab/taparia/api/error/ErrorResponseBody$ErrorResponseBodyBuilderImpl.class b/.build/classes/ru/vityaman/itmo/web/lab/taparia/api/error/ErrorResponseBody$ErrorResponseBodyBuilderImpl.class
+new file mode 100644
+index 0000000..640d699
+Binary files /dev/null and b/.build/classes/ru/vityaman/itmo/web/lab/taparia/api/error/ErrorResponseBody$ErrorResponseBodyBuilderImpl.class differ
+diff --git a/.build/classes/ru/vityaman/itmo/web/lab/taparia/api/error/ErrorResponseBody.class b/.build/classes/ru/vityaman/itmo/web/lab/taparia/api/error/ErrorResponseBody.class
+new file mode 100644
+index 0000000..238e6e9
+Binary files /dev/null and b/.build/classes/ru/vityaman/itmo/web/lab/taparia/api/error/ErrorResponseBody.class differ
+diff --git a/.build/classes/ru/vityaman/itmo/web/lab/taparia/api/error/IllegalArgumentExceptionHandler.class b/.build/classes/ru/vityaman/itmo/web/lab/taparia/api/error/IllegalArgumentExceptionHandler.class
+new file mode 100644
+index 0000000..e5c259f
+Binary files /dev/null and b/.build/classes/ru/vityaman/itmo/web/lab/taparia/api/error/IllegalArgumentExceptionHandler.class differ
+diff --git a/.build/classes/ru/vityaman/itmo/web/lab/taparia/api/error/JsonParseExceptionHandler.class b/.build/classes/ru/vityaman/itmo/web/lab/taparia/api/error/JsonParseExceptionHandler.class
+new file mode 100644
+index 0000000..d42c4db
+Binary files /dev/null and b/.build/classes/ru/vityaman/itmo/web/lab/taparia/api/error/JsonParseExceptionHandler.class differ
+diff --git a/.build/classes/ru/vityaman/itmo/web/lab/taparia/api/error/LogicExceptionHandler.class b/.build/classes/ru/vityaman/itmo/web/lab/taparia/api/error/LogicExceptionHandler.class
+new file mode 100644
+index 0000000..cf51530
+Binary files /dev/null and b/.build/classes/ru/vityaman/itmo/web/lab/taparia/api/error/LogicExceptionHandler.class differ
+diff --git a/.build/classes/ru/vityaman/itmo/web/lab/taparia/api/error/NotFoundError.class b/.build/classes/ru/vityaman/itmo/web/lab/taparia/api/error/NotFoundError.class
+new file mode 100644
+index 0000000..1cc60d2
+Binary files /dev/null and b/.build/classes/ru/vityaman/itmo/web/lab/taparia/api/error/NotFoundError.class differ
+diff --git a/.build/classes/ru/vityaman/itmo/web/lab/taparia/api/error/ValidationExceptionHandler$ResponseEntity$ResponseEntityBuilder.class b/.build/classes/ru/vityaman/itmo/web/lab/taparia/api/error/ValidationExceptionHandler$ResponseEntity$ResponseEntityBuilder.class
+new file mode 100644
+index 0000000..43dadc7
+Binary files /dev/null and b/.build/classes/ru/vityaman/itmo/web/lab/taparia/api/error/ValidationExceptionHandler$ResponseEntity$ResponseEntityBuilder.class differ
+diff --git a/.build/classes/ru/vityaman/itmo/web/lab/taparia/api/error/ValidationExceptionHandler$ResponseEntity$ResponseEntityBuilderImpl.class b/.build/classes/ru/vityaman/itmo/web/lab/taparia/api/error/ValidationExceptionHandler$ResponseEntity$ResponseEntityBuilderImpl.class
+new file mode 100644
+index 0000000..28f828b
+Binary files /dev/null and b/.build/classes/ru/vityaman/itmo/web/lab/taparia/api/error/ValidationExceptionHandler$ResponseEntity$ResponseEntityBuilderImpl.class differ
+diff --git a/.build/classes/ru/vityaman/itmo/web/lab/taparia/api/error/ValidationExceptionHandler$ResponseEntity.class b/.build/classes/ru/vityaman/itmo/web/lab/taparia/api/error/ValidationExceptionHandler$ResponseEntity.class
+new file mode 100644
+index 0000000..0d1bd3c
+Binary files /dev/null and b/.build/classes/ru/vityaman/itmo/web/lab/taparia/api/error/ValidationExceptionHandler$ResponseEntity.class differ
+diff --git a/.build/classes/ru/vityaman/itmo/web/lab/taparia/api/error/ValidationExceptionHandler.class b/.build/classes/ru/vityaman/itmo/web/lab/taparia/api/error/ValidationExceptionHandler.class
+new file mode 100644
+index 0000000..b50d776
+Binary files /dev/null and b/.build/classes/ru/vityaman/itmo/web/lab/taparia/api/error/ValidationExceptionHandler.class differ
+diff --git a/.build/classes/ru/vityaman/itmo/web/lab/taparia/api/route/auth/AuthRoute.class b/.build/classes/ru/vityaman/itmo/web/lab/taparia/api/route/auth/AuthRoute.class
+new file mode 100644
+index 0000000..cdd2d7a
+Binary files /dev/null and b/.build/classes/ru/vityaman/itmo/web/lab/taparia/api/route/auth/AuthRoute.class differ
+diff --git a/.build/classes/ru/vityaman/itmo/web/lab/taparia/api/route/auth/message/AccessTokenView$AccessTokenViewBuilder.class b/.build/classes/ru/vityaman/itmo/web/lab/taparia/api/route/auth/message/AccessTokenView$AccessTokenViewBuilder.class
+new file mode 100644
+index 0000000..5c13dce
+Binary files /dev/null and b/.build/classes/ru/vityaman/itmo/web/lab/taparia/api/route/auth/message/AccessTokenView$AccessTokenViewBuilder.class differ
+diff --git a/.build/classes/ru/vityaman/itmo/web/lab/taparia/api/route/auth/message/AccessTokenView$AccessTokenViewBuilderImpl.class b/.build/classes/ru/vityaman/itmo/web/lab/taparia/api/route/auth/message/AccessTokenView$AccessTokenViewBuilderImpl.class
+new file mode 100644
+index 0000000..76af836
+Binary files /dev/null and b/.build/classes/ru/vityaman/itmo/web/lab/taparia/api/route/auth/message/AccessTokenView$AccessTokenViewBuilderImpl.class differ
+diff --git a/.build/classes/ru/vityaman/itmo/web/lab/taparia/api/route/auth/message/AccessTokenView.class b/.build/classes/ru/vityaman/itmo/web/lab/taparia/api/route/auth/message/AccessTokenView.class
+new file mode 100644
+index 0000000..6c04ca5
+Binary files /dev/null and b/.build/classes/ru/vityaman/itmo/web/lab/taparia/api/route/auth/message/AccessTokenView.class differ
+diff --git a/.build/classes/ru/vityaman/itmo/web/lab/taparia/api/route/ops/OpsRoute.class b/.build/classes/ru/vityaman/itmo/web/lab/taparia/api/route/ops/OpsRoute.class
+new file mode 100644
+index 0000000..e3a0655
+Binary files /dev/null and b/.build/classes/ru/vityaman/itmo/web/lab/taparia/api/route/ops/OpsRoute.class differ
+diff --git a/.build/classes/ru/vityaman/itmo/web/lab/taparia/api/route/picture/PictureRoute.class b/.build/classes/ru/vityaman/itmo/web/lab/taparia/api/route/picture/PictureRoute.class
+new file mode 100644
+index 0000000..7f0cc18
+Binary files /dev/null and b/.build/classes/ru/vityaman/itmo/web/lab/taparia/api/route/picture/PictureRoute.class differ
+diff --git a/.build/classes/ru/vityaman/itmo/web/lab/taparia/api/route/picture/message/CreatePictureRequest$CreatePictureRequestBuilder.class b/.build/classes/ru/vityaman/itmo/web/lab/taparia/api/route/picture/message/CreatePictureRequest$CreatePictureRequestBuilder.class
+new file mode 100644
+index 0000000..5134258
+Binary files /dev/null and b/.build/classes/ru/vityaman/itmo/web/lab/taparia/api/route/picture/message/CreatePictureRequest$CreatePictureRequestBuilder.class differ
+diff --git a/.build/classes/ru/vityaman/itmo/web/lab/taparia/api/route/picture/message/CreatePictureRequest$CreatePictureRequestBuilderImpl.class b/.build/classes/ru/vityaman/itmo/web/lab/taparia/api/route/picture/message/CreatePictureRequest$CreatePictureRequestBuilderImpl.class
+new file mode 100644
+index 0000000..b66f956
+Binary files /dev/null and b/.build/classes/ru/vityaman/itmo/web/lab/taparia/api/route/picture/message/CreatePictureRequest$CreatePictureRequestBuilderImpl.class differ
+diff --git a/.build/classes/ru/vityaman/itmo/web/lab/taparia/api/route/picture/message/CreatePictureRequest.class b/.build/classes/ru/vityaman/itmo/web/lab/taparia/api/route/picture/message/CreatePictureRequest.class
+new file mode 100644
+index 0000000..038cda3
+Binary files /dev/null and b/.build/classes/ru/vityaman/itmo/web/lab/taparia/api/route/picture/message/CreatePictureRequest.class differ
+diff --git a/.build/classes/ru/vityaman/itmo/web/lab/taparia/api/route/picture/message/CreatePictureResponse$CreatePictureResponseBuilder.class b/.build/classes/ru/vityaman/itmo/web/lab/taparia/api/route/picture/message/CreatePictureResponse$CreatePictureResponseBuilder.class
+new file mode 100644
+index 0000000..8c6dbf4
+Binary files /dev/null and b/.build/classes/ru/vityaman/itmo/web/lab/taparia/api/route/picture/message/CreatePictureResponse$CreatePictureResponseBuilder.class differ
+diff --git a/.build/classes/ru/vityaman/itmo/web/lab/taparia/api/route/picture/message/CreatePictureResponse$CreatePictureResponseBuilderImpl.class b/.build/classes/ru/vityaman/itmo/web/lab/taparia/api/route/picture/message/CreatePictureResponse$CreatePictureResponseBuilderImpl.class
+new file mode 100644
+index 0000000..4939b3e
+Binary files /dev/null and b/.build/classes/ru/vityaman/itmo/web/lab/taparia/api/route/picture/message/CreatePictureResponse$CreatePictureResponseBuilderImpl.class differ
+diff --git a/.build/classes/ru/vityaman/itmo/web/lab/taparia/api/route/picture/message/CreatePictureResponse.class b/.build/classes/ru/vityaman/itmo/web/lab/taparia/api/route/picture/message/CreatePictureResponse.class
+new file mode 100644
+index 0000000..d33b7c4
+Binary files /dev/null and b/.build/classes/ru/vityaman/itmo/web/lab/taparia/api/route/picture/message/CreatePictureResponse.class differ
+diff --git a/.build/classes/ru/vityaman/itmo/web/lab/taparia/api/route/picture/message/PictureView$PictureViewBuilder.class b/.build/classes/ru/vityaman/itmo/web/lab/taparia/api/route/picture/message/PictureView$PictureViewBuilder.class
+new file mode 100644
+index 0000000..0e0bee5
+Binary files /dev/null and b/.build/classes/ru/vityaman/itmo/web/lab/taparia/api/route/picture/message/PictureView$PictureViewBuilder.class differ
+diff --git a/.build/classes/ru/vityaman/itmo/web/lab/taparia/api/route/picture/message/PictureView$PictureViewBuilderImpl.class b/.build/classes/ru/vityaman/itmo/web/lab/taparia/api/route/picture/message/PictureView$PictureViewBuilderImpl.class
+new file mode 100644
+index 0000000..032c2df
+Binary files /dev/null and b/.build/classes/ru/vityaman/itmo/web/lab/taparia/api/route/picture/message/PictureView$PictureViewBuilderImpl.class differ
+diff --git a/.build/classes/ru/vityaman/itmo/web/lab/taparia/api/route/picture/message/PictureView.class b/.build/classes/ru/vityaman/itmo/web/lab/taparia/api/route/picture/message/PictureView.class
+new file mode 100644
+index 0000000..081036a
+Binary files /dev/null and b/.build/classes/ru/vityaman/itmo/web/lab/taparia/api/route/picture/message/PictureView.class differ
+diff --git a/.build/classes/ru/vityaman/itmo/web/lab/taparia/api/route/taps/TapsRoute.class b/.build/classes/ru/vityaman/itmo/web/lab/taparia/api/route/taps/TapsRoute.class
+new file mode 100644
+index 0000000..a59b633
+Binary files /dev/null and b/.build/classes/ru/vityaman/itmo/web/lab/taparia/api/route/taps/TapsRoute.class differ
+diff --git a/.build/classes/ru/vityaman/itmo/web/lab/taparia/api/route/taps/message/TapResultView$TapResultViewBuilder.class b/.build/classes/ru/vityaman/itmo/web/lab/taparia/api/route/taps/message/TapResultView$TapResultViewBuilder.class
+new file mode 100644
+index 0000000..2860f27
+Binary files /dev/null and b/.build/classes/ru/vityaman/itmo/web/lab/taparia/api/route/taps/message/TapResultView$TapResultViewBuilder.class differ
+diff --git a/.build/classes/ru/vityaman/itmo/web/lab/taparia/api/route/taps/message/TapResultView$TapResultViewBuilderImpl.class b/.build/classes/ru/vityaman/itmo/web/lab/taparia/api/route/taps/message/TapResultView$TapResultViewBuilderImpl.class
+new file mode 100644
+index 0000000..e999761
+Binary files /dev/null and b/.build/classes/ru/vityaman/itmo/web/lab/taparia/api/route/taps/message/TapResultView$TapResultViewBuilderImpl.class differ
+diff --git a/.build/classes/ru/vityaman/itmo/web/lab/taparia/api/route/taps/message/TapResultView.class b/.build/classes/ru/vityaman/itmo/web/lab/taparia/api/route/taps/message/TapResultView.class
+new file mode 100644
+index 0000000..201998a
+Binary files /dev/null and b/.build/classes/ru/vityaman/itmo/web/lab/taparia/api/route/taps/message/TapResultView.class differ
+diff --git a/.build/classes/ru/vityaman/itmo/web/lab/taparia/api/route/user/UserRoute.class b/.build/classes/ru/vityaman/itmo/web/lab/taparia/api/route/user/UserRoute.class
+new file mode 100644
+index 0000000..290fb2a
+Binary files /dev/null and b/.build/classes/ru/vityaman/itmo/web/lab/taparia/api/route/user/UserRoute.class differ
+diff --git a/.build/classes/ru/vityaman/itmo/web/lab/taparia/api/route/user/message/UserView$UserViewBuilder.class b/.build/classes/ru/vityaman/itmo/web/lab/taparia/api/route/user/message/UserView$UserViewBuilder.class
+new file mode 100644
+index 0000000..c002d02
+Binary files /dev/null and b/.build/classes/ru/vityaman/itmo/web/lab/taparia/api/route/user/message/UserView$UserViewBuilder.class differ
+diff --git a/.build/classes/ru/vityaman/itmo/web/lab/taparia/api/route/user/message/UserView$UserViewBuilderImpl.class b/.build/classes/ru/vityaman/itmo/web/lab/taparia/api/route/user/message/UserView$UserViewBuilderImpl.class
+new file mode 100644
+index 0000000..08aace7
+Binary files /dev/null and b/.build/classes/ru/vityaman/itmo/web/lab/taparia/api/route/user/message/UserView$UserViewBuilderImpl.class differ
+diff --git a/.build/classes/ru/vityaman/itmo/web/lab/taparia/api/route/user/message/UserView.class b/.build/classes/ru/vityaman/itmo/web/lab/taparia/api/route/user/message/UserView.class
+new file mode 100644
+index 0000000..24c04b2
+Binary files /dev/null and b/.build/classes/ru/vityaman/itmo/web/lab/taparia/api/route/user/message/UserView.class differ
+diff --git a/.build/classes/ru/vityaman/itmo/web/lab/taparia/app/App.class b/.build/classes/ru/vityaman/itmo/web/lab/taparia/app/App.class
+new file mode 100644
+index 0000000..733763a
+Binary files /dev/null and b/.build/classes/ru/vityaman/itmo/web/lab/taparia/app/App.class differ
+diff --git a/.build/classes/ru/vityaman/itmo/web/lab/taparia/backend/Backend.class b/.build/classes/ru/vityaman/itmo/web/lab/taparia/backend/Backend.class
+new file mode 100644
+index 0000000..32f2fc4
+Binary files /dev/null and b/.build/classes/ru/vityaman/itmo/web/lab/taparia/backend/Backend.class differ
+diff --git a/.build/classes/ru/vityaman/itmo/web/lab/taparia/backend/Config.class b/.build/classes/ru/vityaman/itmo/web/lab/taparia/backend/Config.class
+new file mode 100644
+index 0000000..3dabe6a
+Binary files /dev/null and b/.build/classes/ru/vityaman/itmo/web/lab/taparia/backend/Config.class differ
+diff --git a/.build/classes/ru/vityaman/itmo/web/lab/taparia/backend/Services.class b/.build/classes/ru/vityaman/itmo/web/lab/taparia/backend/Services.class
+new file mode 100644
+index 0000000..9a981bb
+Binary files /dev/null and b/.build/classes/ru/vityaman/itmo/web/lab/taparia/backend/Services.class differ
+diff --git a/.build/classes/ru/vityaman/itmo/web/lab/taparia/backend/Storages.class b/.build/classes/ru/vityaman/itmo/web/lab/taparia/backend/Storages.class
+new file mode 100644
+index 0000000..b9373e5
+Binary files /dev/null and b/.build/classes/ru/vityaman/itmo/web/lab/taparia/backend/Storages.class differ
+diff --git a/.build/classes/ru/vityaman/itmo/web/lab/taparia/common/logging/Log.class b/.build/classes/ru/vityaman/itmo/web/lab/taparia/common/logging/Log.class
+new file mode 100644
+index 0000000..5f882db
+Binary files /dev/null and b/.build/classes/ru/vityaman/itmo/web/lab/taparia/common/logging/Log.class differ
+diff --git a/.build/classes/ru/vityaman/itmo/web/lab/taparia/common/logging/LogFactory.class b/.build/classes/ru/vityaman/itmo/web/lab/taparia/common/logging/LogFactory.class
+new file mode 100644
+index 0000000..2431174
+Binary files /dev/null and b/.build/classes/ru/vityaman/itmo/web/lab/taparia/common/logging/LogFactory.class differ
+diff --git a/.build/classes/ru/vityaman/itmo/web/lab/taparia/common/model/serialize/figure/FigureView$FigureViewBuilder.class b/.build/classes/ru/vityaman/itmo/web/lab/taparia/common/model/serialize/figure/FigureView$FigureViewBuilder.class
+new file mode 100644
+index 0000000..7698ef6
+Binary files /dev/null and b/.build/classes/ru/vityaman/itmo/web/lab/taparia/common/model/serialize/figure/FigureView$FigureViewBuilder.class differ
+diff --git a/.build/classes/ru/vityaman/itmo/web/lab/taparia/common/model/serialize/figure/FigureView.class b/.build/classes/ru/vityaman/itmo/web/lab/taparia/common/model/serialize/figure/FigureView.class
+new file mode 100644
+index 0000000..1c5624c
+Binary files /dev/null and b/.build/classes/ru/vityaman/itmo/web/lab/taparia/common/model/serialize/figure/FigureView.class differ
+diff --git a/.build/classes/ru/vityaman/itmo/web/lab/taparia/common/model/serialize/figure/VectorView$VectorViewBuilder.class b/.build/classes/ru/vityaman/itmo/web/lab/taparia/common/model/serialize/figure/VectorView$VectorViewBuilder.class
+new file mode 100644
+index 0000000..7e8ecd1
+Binary files /dev/null and b/.build/classes/ru/vityaman/itmo/web/lab/taparia/common/model/serialize/figure/VectorView$VectorViewBuilder.class differ
+diff --git a/.build/classes/ru/vityaman/itmo/web/lab/taparia/common/model/serialize/figure/VectorView$VectorViewBuilderImpl.class b/.build/classes/ru/vityaman/itmo/web/lab/taparia/common/model/serialize/figure/VectorView$VectorViewBuilderImpl.class
+new file mode 100644
+index 0000000..b47e2eb
+Binary files /dev/null and b/.build/classes/ru/vityaman/itmo/web/lab/taparia/common/model/serialize/figure/VectorView$VectorViewBuilderImpl.class differ
+diff --git a/.build/classes/ru/vityaman/itmo/web/lab/taparia/common/model/serialize/figure/VectorView.class b/.build/classes/ru/vityaman/itmo/web/lab/taparia/common/model/serialize/figure/VectorView.class
+new file mode 100644
+index 0000000..a5a5143
+Binary files /dev/null and b/.build/classes/ru/vityaman/itmo/web/lab/taparia/common/model/serialize/figure/VectorView.class differ
+diff --git a/.build/classes/ru/vityaman/itmo/web/lab/taparia/figure/Figure.class b/.build/classes/ru/vityaman/itmo/web/lab/taparia/figure/Figure.class
+new file mode 100644
+index 0000000..240b348
+Binary files /dev/null and b/.build/classes/ru/vityaman/itmo/web/lab/taparia/figure/Figure.class differ
+diff --git a/.build/classes/ru/vityaman/itmo/web/lab/taparia/figure/primitive/Point.class b/.build/classes/ru/vityaman/itmo/web/lab/taparia/figure/primitive/Point.class
+new file mode 100644
+index 0000000..a7c606d
+Binary files /dev/null and b/.build/classes/ru/vityaman/itmo/web/lab/taparia/figure/primitive/Point.class differ
+diff --git a/.build/classes/ru/vityaman/itmo/web/lab/taparia/logic/abstraction/AuthService.class b/.build/classes/ru/vityaman/itmo/web/lab/taparia/logic/abstraction/AuthService.class
+new file mode 100644
+index 0000000..261732f
+Binary files /dev/null and b/.build/classes/ru/vityaman/itmo/web/lab/taparia/logic/abstraction/AuthService.class differ
+diff --git a/.build/classes/ru/vityaman/itmo/web/lab/taparia/logic/abstraction/PictureService.class b/.build/classes/ru/vityaman/itmo/web/lab/taparia/logic/abstraction/PictureService.class
+new file mode 100644
+index 0000000..efd07ac
+Binary files /dev/null and b/.build/classes/ru/vityaman/itmo/web/lab/taparia/logic/abstraction/PictureService.class differ
+diff --git a/.build/classes/ru/vityaman/itmo/web/lab/taparia/logic/abstraction/SecretsService.class b/.build/classes/ru/vityaman/itmo/web/lab/taparia/logic/abstraction/SecretsService.class
+new file mode 100644
+index 0000000..7dbeb90
+Binary files /dev/null and b/.build/classes/ru/vityaman/itmo/web/lab/taparia/logic/abstraction/SecretsService.class differ
+diff --git a/.build/classes/ru/vityaman/itmo/web/lab/taparia/logic/abstraction/TapResultService.class b/.build/classes/ru/vityaman/itmo/web/lab/taparia/logic/abstraction/TapResultService.class
+new file mode 100644
+index 0000000..6e6c417
+Binary files /dev/null and b/.build/classes/ru/vityaman/itmo/web/lab/taparia/logic/abstraction/TapResultService.class differ
+diff --git a/.build/classes/ru/vityaman/itmo/web/lab/taparia/logic/abstraction/UserService.class b/.build/classes/ru/vityaman/itmo/web/lab/taparia/logic/abstraction/UserService.class
+new file mode 100644
+index 0000000..6db402c
+Binary files /dev/null and b/.build/classes/ru/vityaman/itmo/web/lab/taparia/logic/abstraction/UserService.class differ
+diff --git a/.build/classes/ru/vityaman/itmo/web/lab/taparia/logic/exception/AuthenticationException.class b/.build/classes/ru/vityaman/itmo/web/lab/taparia/logic/exception/AuthenticationException.class
+new file mode 100644
+index 0000000..e9e9463
+Binary files /dev/null and b/.build/classes/ru/vityaman/itmo/web/lab/taparia/logic/exception/AuthenticationException.class differ
+diff --git a/.build/classes/ru/vityaman/itmo/web/lab/taparia/logic/exception/LogicException.class b/.build/classes/ru/vityaman/itmo/web/lab/taparia/logic/exception/LogicException.class
+new file mode 100644
+index 0000000..92d47f6
+Binary files /dev/null and b/.build/classes/ru/vityaman/itmo/web/lab/taparia/logic/exception/LogicException.class differ
+diff --git a/.build/classes/ru/vityaman/itmo/web/lab/taparia/storage/AccessTokenStorage.class b/.build/classes/ru/vityaman/itmo/web/lab/taparia/storage/AccessTokenStorage.class
+new file mode 100644
+index 0000000..1ce384e
+Binary files /dev/null and b/.build/classes/ru/vityaman/itmo/web/lab/taparia/storage/AccessTokenStorage.class differ
+diff --git a/.build/classes/ru/vityaman/itmo/web/lab/taparia/storage/PictureStorage.class b/.build/classes/ru/vityaman/itmo/web/lab/taparia/storage/PictureStorage.class
+new file mode 100644
+index 0000000..8af477f
+Binary files /dev/null and b/.build/classes/ru/vityaman/itmo/web/lab/taparia/storage/PictureStorage.class differ
+diff --git a/.build/classes/ru/vityaman/itmo/web/lab/taparia/storage/StorageException.class b/.build/classes/ru/vityaman/itmo/web/lab/taparia/storage/StorageException.class
+new file mode 100644
+index 0000000..d1f5cb3
+Binary files /dev/null and b/.build/classes/ru/vityaman/itmo/web/lab/taparia/storage/StorageException.class differ
+diff --git a/.build/classes/ru/vityaman/itmo/web/lab/taparia/storage/TapResultStorage.class b/.build/classes/ru/vityaman/itmo/web/lab/taparia/storage/TapResultStorage.class
+new file mode 100644
+index 0000000..5002dc0
+Binary files /dev/null and b/.build/classes/ru/vityaman/itmo/web/lab/taparia/storage/TapResultStorage.class differ
+diff --git a/.build/classes/ru/vityaman/itmo/web/lab/taparia/storage/UserAccountStorage.class b/.build/classes/ru/vityaman/itmo/web/lab/taparia/storage/UserAccountStorage.class
+new file mode 100644
+index 0000000..7d998d5
+Binary files /dev/null and b/.build/classes/ru/vityaman/itmo/web/lab/taparia/storage/UserAccountStorage.class differ
+diff --git a/.build/classes/ru/vityaman/itmo/web/lab/taparia/storage/jdbc/database/JdbcConfig.class b/.build/classes/ru/vityaman/itmo/web/lab/taparia/storage/jdbc/database/JdbcConfig.class
+new file mode 100644
+index 0000000..f7b026c
+Binary files /dev/null and b/.build/classes/ru/vityaman/itmo/web/lab/taparia/storage/jdbc/database/JdbcConfig.class differ
+diff --git a/.build/classes/ru/vityaman/itmo/web/lab/taparia/user/UserAccessToken$Body.class b/.build/classes/ru/vityaman/itmo/web/lab/taparia/user/UserAccessToken$Body.class
+new file mode 100644
+index 0000000..5ae6e25
+Binary files /dev/null and b/.build/classes/ru/vityaman/itmo/web/lab/taparia/user/UserAccessToken$Body.class differ
+diff --git a/.build/classes/ru/vityaman/itmo/web/lab/taparia/user/UserAccessToken.class b/.build/classes/ru/vityaman/itmo/web/lab/taparia/user/UserAccessToken.class
+new file mode 100644
+index 0000000..3491ce9
+Binary files /dev/null and b/.build/classes/ru/vityaman/itmo/web/lab/taparia/user/UserAccessToken.class differ
+diff --git a/.build/classes/ru/vityaman/itmo/web/lab/taparia/user/UserAccount$Id.class b/.build/classes/ru/vityaman/itmo/web/lab/taparia/user/UserAccount$Id.class
+new file mode 100644
+index 0000000..0ad94f3
+Binary files /dev/null and b/.build/classes/ru/vityaman/itmo/web/lab/taparia/user/UserAccount$Id.class differ
+diff --git a/.build/classes/ru/vityaman/itmo/web/lab/taparia/user/UserAccount$Name.class b/.build/classes/ru/vityaman/itmo/web/lab/taparia/user/UserAccount$Name.class
+new file mode 100644
+index 0000000..d5b8ebf
+Binary files /dev/null and b/.build/classes/ru/vityaman/itmo/web/lab/taparia/user/UserAccount$Name.class differ
+diff --git a/.build/classes/ru/vityaman/itmo/web/lab/taparia/user/UserAccount$Password.class b/.build/classes/ru/vityaman/itmo/web/lab/taparia/user/UserAccount$Password.class
+new file mode 100644
+index 0000000..af1f413
+Binary files /dev/null and b/.build/classes/ru/vityaman/itmo/web/lab/taparia/user/UserAccount$Password.class differ
+diff --git a/.build/classes/ru/vityaman/itmo/web/lab/taparia/user/UserAccount.class b/.build/classes/ru/vityaman/itmo/web/lab/taparia/user/UserAccount.class
+new file mode 100644
+index 0000000..41b236d
+Binary files /dev/null and b/.build/classes/ru/vityaman/itmo/web/lab/taparia/user/UserAccount.class differ
+diff --git a/.build/classes/ru/vityaman/itmo/web/lab/taparia/user/UserCredentials$Password.class b/.build/classes/ru/vityaman/itmo/web/lab/taparia/user/UserCredentials$Password.class
+new file mode 100644
+index 0000000..2a85947
+Binary files /dev/null and b/.build/classes/ru/vityaman/itmo/web/lab/taparia/user/UserCredentials$Password.class differ
+diff --git a/.build/classes/ru/vityaman/itmo/web/lab/taparia/user/UserCredentials.class b/.build/classes/ru/vityaman/itmo/web/lab/taparia/user/UserCredentials.class
+new file mode 100644
+index 0000000..2fd68c0
+Binary files /dev/null and b/.build/classes/ru/vityaman/itmo/web/lab/taparia/user/UserCredentials.class differ
+diff --git a/src/main/taparia-logic/src/main/java/ru/vityaman/itmo/web/lab/taparia/logic/abstraction/AuthService.java b/src/main/taparia-logic/src/main/java/ru/vityaman/itmo/web/lab/taparia/logic/abstraction/AuthService.java
+index 0670044..e8d3782 100644
+--- a/src/main/taparia-logic/src/main/java/ru/vityaman/itmo/web/lab/taparia/logic/abstraction/AuthService.java
++++ b/src/main/taparia-logic/src/main/java/ru/vityaman/itmo/web/lab/taparia/logic/abstraction/AuthService.java
+@@ -6,7 +6,7 @@ import ru.vityaman.itmo.web.lab.taparia.user.UserAccessToken;
+ import ru.vityaman.itmo.web.lab.taparia.user.UserCredentials;
+ 
+ public interface AuthService {
+-    UserAccessToken register(UserCredentials credentials)
++    UserAccessToken regiser(UserCredentials credentials)
+         throws LogicException;
+ 
+     UserAccessToken login(UserCredentials credentials)
